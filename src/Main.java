@@ -6,6 +6,7 @@ public class Main {
      * @param args Argumentos de línea de comandos (no se utilizan en este caso).
      * Complejidad temporal: O(1) - Tiempo constante.
      */
+
     public static void main(String[] args) {
         Biblioteca bibliotecaKonradLorenz = new Biblioteca();
 

@@ -29,6 +29,7 @@ public class Libro {
      * Explicación: Este método devuelve el título del libro.
      * Explicación: Este método devuelve el autor del libro.
      * @return autor
+     *
      * Complejidad temporal: O(1) - Tiempo constante.
      */
     public String getAutor(){

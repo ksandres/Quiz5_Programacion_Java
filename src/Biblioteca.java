@@ -9,6 +9,7 @@ public class Biblioteca {
     public void registarLibro(Libro libro) {
         librosDisponibles.add(libro);
     }
+
     /**
      * Método para registrar un libro
      * Explicación: Este método busca un libro en la lista de libros disponibles por su título.
